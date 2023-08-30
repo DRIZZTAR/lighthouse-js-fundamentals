@@ -20,3 +20,17 @@ for (let number = 100; number <= 200; number++) {
     console.log(number);
   }
 }
+
+
+//Ternary operator used example
+for (const num of nums) {
+  let output = "";
+
+  if (num % 3 === 0) {
+    output += "Loopy";
+  }
+  if (num % 4 === 0) {
+    output += "Lighthouse";
+  }
+  console.log(output === "" ? num : output);
+} hey yall; Hello! 

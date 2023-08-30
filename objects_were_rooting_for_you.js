@@ -36,4 +36,4 @@ const vegetables = [
 
 const metric = 'redness'
 
-judgeVegetable(vegetables, metric)
+judgeVegetable(vegetables, metric);
