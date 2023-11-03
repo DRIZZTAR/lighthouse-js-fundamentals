@@ -8,4 +8,4 @@ function ageCalculator(name, yearOfBirth, currentYear) {
 
 // Test the function with some examples
 console.log(ageCalculator("Miranda", 1983, 2015)); // Miranda is 32 years old.
-console.log(ageCalculator("Ferdinand", 1988, 2015)); // Ferdinand is 27 years old.
+console.log(ageCalculator("Ferdinand", 1988, 2015)); // Ferdinand is 27 years old
