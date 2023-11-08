@@ -16,3 +16,5 @@ console.log(newIceCreamFlavours[newIceCreamFlavours.length - 1]);
 
 // Get the total number of flavours in the array
 console.log(newIceCreamFlavours.length);
+
+console.log(iceCreamFlavours);
